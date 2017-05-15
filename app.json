@@ -1,0 +1,8 @@
+{
+  "name": "Laramie Duncan",
+  "description": "Personal Website",
+  "image": "heroku/python",
+  "repository": "https://github.com/laramied-website/personal-site",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
